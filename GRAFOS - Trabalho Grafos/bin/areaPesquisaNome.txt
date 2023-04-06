@@ -1,0 +1,20 @@
+Aprendizado de Maquina
+Nanotecnologia Computacional
+Jogos Digitais
+Bancos de Dados
+Teoria dos Grafos
+Processamento Digital de Imagens 
+Projeto e Analise de Algoritmos
+Visao Computacional
+Analise e Otimizacao de Codigo
+Compiladores
+Teoria de Linguagens
+Bancos de Dados Geograficos
+Engenharia de Software
+Arquitetura de Software 
+Otimizacao Linear e Nao Linear
+Sistemas Paralelos e Distribuidos
+Redes de Computadores
+Recuperacao de Informacao
+Sistemas Operacionais
+Arquitetura de Computadores
